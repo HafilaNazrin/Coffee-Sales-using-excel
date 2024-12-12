@@ -1,2 +1,2 @@
 # Coffee-Sales-using-excel
-In this article, I’ll share some snaps showcasing the dashboard’s capabilities and then walk you through the process I followed to create it from scratch.
+Have you ever wondered how to create an interactive dashboard in Excel using multiple related tables? I was eager to learn, so I followed the amazing step-by-step tutorial by “Data with Mo” and built one by making a few changes in the wireframe which I wish would bring more outcomes! In this article, I’ll share some screenshots showcasing the dashboard’s capabilities and then walk you through the process I followed to create it from scratch.
